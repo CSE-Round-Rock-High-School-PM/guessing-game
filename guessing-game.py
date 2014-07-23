@@ -1,7 +1,6 @@
 # @author iedgeley
 # @date 7.23.14
-# @title 138A - While Loops
-# 9 - 13 guesses? The amount of divisions /2 to get from 6000 to 1
+# @title Simple guessing game in two versions - with a loop and recursively.
 
 import random
 
